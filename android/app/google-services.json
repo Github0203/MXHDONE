@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "795844662762",
+    "project_id": "test3-12053",
+    "storage_bucket": "test3-12053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844662762:android:3135a158e2f0dee2508e93",
+        "android_client_info": {
+          "package_name": "com.mxhflutter.ngoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844662762-11hkif7f5a9e6msncsa0vgqu7vcfq3q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mxhflutter.ngoc",
+            "certificate_hash": "254077f69ff8da79176d7ad984fe046bf2063b62"
+          }
+        },
+        {
+          "client_id": "795844662762-8pean92cpm7uord5nt42tvdqgbn89gj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_ebVSEtBXnfGyrtXgK6GYpKD9EtX2Gk"
+        },
+        {
+          "current_key": "AIzaSyBnKt_3N7IoaqqcvetwttCyv2X3djGStMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844662762-8pean92cpm7uord5nt42tvdqgbn89gj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844662762-91o4fpo3k6cfo977v8h198fja3otk998.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codexveer.googleMaps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795844662762:android:b97601c7ea1f0411508e93",
+        "android_client_info": {
+          "package_name": "com.ngoc.ngoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795844662762-1ff3eboh0rbjq2k0vjot2vomuo2m6qt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngoc.ngoc",
+            "certificate_hash": "254077f69ff8da79176d7ad984fe046bf2063b62"
+          }
+        },
+        {
+          "client_id": "795844662762-8pean92cpm7uord5nt42tvdqgbn89gj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb_ebVSEtBXnfGyrtXgK6GYpKD9EtX2Gk"
+        },
+        {
+          "current_key": "AIzaSyBnKt_3N7IoaqqcvetwttCyv2X3djGStMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795844662762-8pean92cpm7uord5nt42tvdqgbn89gj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795844662762-91o4fpo3k6cfo977v8h198fja3otk998.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codexveer.googleMaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
